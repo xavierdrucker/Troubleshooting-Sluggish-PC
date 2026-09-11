@@ -1,0 +1,30 @@
+# Windows Troubleshooting Lab
+
+## Objective
+Learn how to identify and troubleshoot common Windows performance and system issues.
+
+## Tools Used
+- Windows 11
+- Task Manager
+- Device Manager
+- Event Viewer
+- Disk Management
+- PowerShell
+- Command Prompt
+
+## Scenario
+A Windows computer was experiencing slow performance.
+
+## Troubleshooting Process
+1. Checked CPU usage.
+2. Checked memory usage.
+3. Checked disk usage.
+4. Reviewed startup applications.
+5. Reviewed Windows Event Viewer.
+6. Verified system configuration.
+
+## Result
+Identified potential causes of the performance issue and documented the troubleshooting process.
+
+## What I Learned
+I learned how to use built-in Windows tools to investigate system problems.
