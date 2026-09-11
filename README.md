@@ -4,20 +4,12 @@
 
 # Troubleshooting-Sluggish-PC
 
+In this lab, a user reported that his computer was operating very slowly and that applications were opening very slowly during this demonstration. I will perform troubleshooting tasks to identify and resolve the problem. I will provide a solution at the end.
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop (Mac OS)
-- Internet Information Services (IIS)
-
-<h2>Operating Systems Used </h2>
-
-- MacBook Air M2 (Host Machine)
-- Windows 11 Pro </b> (25H2 ) (Virtual Machine)
-
-<h2>Ticket Lifecycle Stages</h2>
-
 - Windows settings
 - Device Manager
 - Task Manager
@@ -28,6 +20,12 @@
 - Windows Update
 - Command Prompt
 - PowerShell
+
+<h2>Operating Systems Used </h2>
+
+- Apple Mac OS (Host Machine)
+- Windows 11 Pro </b> (25H2 ) (Virtual Machine)
+
 
 <h2>Lifecycle Stages</h2>
 
