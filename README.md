@@ -23,7 +23,7 @@ In this lab, a user reported that his computer was operating very slowly and tha
 
 <h2>Operating Systems Used </h2>
 
-- Apple Mac OS (Host Machine)
+- Apple Mac OS 
 - Windows 11 Pro </b> (25H2 ) (Virtual Machine)
 
 
