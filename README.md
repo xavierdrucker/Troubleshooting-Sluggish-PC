@@ -7,8 +7,7 @@
 In this lab, a user reported that his computer was operating very slowly and that applications were opening very slowly during this demonstration. I will perform troubleshooting tasks to identify and resolve the problem. I will provide a solution at the end.
 
 <h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
+- SpiceWorks (Help Desk Ticketing System)
 - Remote Desktop (Mac OS)
 - Windows settings
 - Device Manager
