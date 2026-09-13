@@ -33,23 +33,26 @@ In this lab, a user reported that his computer was operating very slowly and tha
 <img width="2228" height="869" alt="Screenshot 2026-09-03 at 8 00 20 PM" src="https://github.com/user-attachments/assets/b88b0d4a-1dc2-4c56-8550-8758737e20c5" />
 </p>
 <p>
-A User has reported that "PC is running so slow," so in this demonstration, I will be using the helpdesk ticketing system "SpiceWorks" to help the end user solve the problem that the user is facing. 
+A user reported, "PC is running so slow," so in this demonstration, I will use the helpdesk ticketing system "SpiceWorks" to help the end user solve the problem they are facing. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2226" height="1224" alt="Screenshot 2026-09-03 at 8 19 14 PM" src="https://github.com/user-attachments/assets/1bb559f1-9c75-4a7b-a272-eb25f2d34532" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To get started, I have replied to the user, introducing myself and stating that I am confident and pleased to help him/her with their issue. I then asked for the user's Computer username or IP address so I could take a look. I made an internal note.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2554" height="1250" alt="Screenshot 2026-09-03 at 8 44 36 PM" src="https://github.com/user-attachments/assets/f276cb95-8614-4820-8217-24cf8c489ebe" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, taking a look at the user's computer via RDP (Remote Desktop Protocol), I open up Task Manager to see what's the problem could be causing the end user's computer to operate very slowly,
 </p>
 <br />
+<img width="2496" height="1132" alt="Screenshot 2026-09-03 at 5 55 31 PM" src="https://github.com/user-attachments/assets/c3b7064f-f02e-435d-965b-5fe74fa5160d" />
+I found that the end user's computer was using a massive amount of CPU, which was the problem that the end user was having that was making the computer slow. 
+
 
