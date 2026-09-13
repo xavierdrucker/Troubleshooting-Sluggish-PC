@@ -11,15 +11,8 @@ In this lab, a user reported that his computer was operating very slowly and tha
 - SpiceWorks (Help Desk Ticketing System)
 - Remote Desktop (Mac OS)
 - Windows settings
-- Device Manager
 - Task Manager
-- Services
-- Event Viewer
-- Disk Management
 - Network settings
-- Windows Update
-- Command Prompt
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
@@ -41,7 +34,7 @@ A user reported, "PC is running so slow," so in this demonstration, I will use t
 <img width="2226" height="1224" alt="Screenshot 2026-09-03 at 8 19 14 PM" src="https://github.com/user-attachments/assets/1bb559f1-9c75-4a7b-a272-eb25f2d34532" />
 </p>
 <p>
-To get started, I have replied to the user, introducing myself and stating that I am confident and pleased to help him/her with their issue. I then asked for the user's Computer username or IP address so I could take a look. I made an internal note.
+To get started, I replied to the user, introducing myself and stating that I am confident and pleased to help him/her with their issue. I then asked for the user's Computer username or IP address so I could take a look. I made an internal note.
 </p>
 <br />
 
