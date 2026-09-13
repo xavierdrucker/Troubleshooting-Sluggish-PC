@@ -52,7 +52,11 @@ To get started, I have replied to the user, introducing myself and stating that 
 Now, taking a look at the user's computer via RDP (Remote Desktop Protocol), I open up Task Manager to see what's the problem could be causing the end user's computer to operate very slowly,
 </p>
 <br />
-<img width="2496" height="1132" alt="Screenshot 2026-09-03 at 5 55 31 PM" src="https://github.com/user-attachments/assets/c3b7064f-f02e-435d-965b-5fe74fa5160d" />
+<img width="2496" height="1132" alt="Screenshot 2026-09-03 at 5 55 31 PM" src="https://github.com/user-attachments/assets/fdd63624-65e4-4247-9eca-8dd609cf7ce9" />
 I found that the end user's computer was using a massive amount of CPU, which was the problem that the end user was having that was making the computer slow. 
+<img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 43 22 PM" src="https://github.com/user-attachments/assets/2b6b43a4-eb16-4532-bbcb-6ff302d527bd" />
+I have selected end tasks to some of the unnecessary applications to help reduce CPU usage so the computer won't be so sluggish.
+
+
 
 
