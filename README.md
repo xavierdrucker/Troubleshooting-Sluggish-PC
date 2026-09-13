@@ -60,7 +60,7 @@ I found that the end user's computer was using a massive amount of CPU, which wa
 I have selected End Task for some of the unnecessary applications to help reduce CPU usage so the computer won't be so sluggish.
 
 <img width="2554" height="1301" alt="Screenshot 2026-09-03 at 8 41 55 PM" src="https://github.com/user-attachments/assets/72e213c5-76c0-4df1-ac8f-67751a30a015" />
-Now, I headed back to SpiceWorks (helpdesk ticketing system), replied to the user, and informed him that his computer was running smoothly again and that the issue was high CPU usage.
+Now, I headed back to SpiceWorks (helpdesk ticketing system), replied to the user, and informed him/her that the computer was running smoothly again and that the issue was high CPU usage.
 
 <img width="620" height="680" alt="Screenshot 2026-09-03 at 8 41 55 PM copy" src="https://github.com/user-attachments/assets/77133e02-4b27-461d-bf1c-ecea9127b51f" />
 
@@ -71,6 +71,10 @@ Now I have reported the ticket as resolved and closed the ticket.
 The user's issue was resolved; the ticket is closed.
 
 
+<h2> Conclusion </h2>
+
+
+# The EndUser's Windows Computer was experiencing unusually high CPU utilization, resulting in slow system performance. RDP (Remote Desktop Protocol) into the end user's computer to end unnecessary tasks, causing high CPU usage.
 
 
 
