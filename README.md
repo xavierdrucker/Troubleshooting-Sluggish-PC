@@ -52,16 +52,23 @@ To get started, I have replied to the user, introducing myself and stating that 
 Now, taking a look at the user's computer via RDP (Remote Desktop Protocol), I open up Task Manager to see what's the problem could be causing the end user's computer to operate very slowly,
 </p>
 <br />
+
 <img width="2496" height="1132" alt="Screenshot 2026-09-03 at 5 55 31 PM" src="https://github.com/user-attachments/assets/fdd63624-65e4-4247-9eca-8dd609cf7ce9" />
 I found that the end user's computer was using a massive amount of CPU, which was the problem that the end user was having that was making the computer slow. 
+
 <img width="2554" height="1243" alt="Screenshot 2026-09-03 at 5 43 22 PM" src="https://github.com/user-attachments/assets/2b6b43a4-eb16-4532-bbcb-6ff302d527bd" />
 I have selected End Task for some of the unnecessary applications to help reduce CPU usage so the computer won't be so sluggish.
+
 <img width="2554" height="1301" alt="Screenshot 2026-09-03 at 8 41 55 PM" src="https://github.com/user-attachments/assets/72e213c5-76c0-4df1-ac8f-67751a30a015" />
 Now, I headed back to SpiceWorks (helpdesk ticketing system), replied to the user, and informed him that his computer was running smoothly again and that the issue was high CPU usage.
+
 <img width="620" height="680" alt="Screenshot 2026-09-03 at 8 41 55 PM copy" src="https://github.com/user-attachments/assets/77133e02-4b27-461d-bf1c-ecea9127b51f" />
+
 Now I have reported the ticket as resolved and closed the ticket.
+
 <img width="2227" height="501" alt="Screenshot 2026-09-03 at 8 59 11 PM" src="https://github.com/user-attachments/assets/0b41493c-316b-4bec-bca3-3ce38536ff64" />
-And the user's issue was resolved; ticket closed.
+
+The user's issue was resolved; the ticket is closed.
 
 
 
